@@ -8,10 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success)](README.md)
 
-**An AI-powered fintech platform revolutionizing financial education and investment decision-making**
-
-[🚀 Live Demo](https://wealthnexus-ai.netlify.app) • [Features](#-features) • [Installation](#-installation) • [Documentation](./API_SPECIFICATION.md) • [Contact](#-contact)
-
 </div>
 
 ---
@@ -30,24 +26,6 @@
 Built with cutting-edge React 18, TypeScript, and modern UI frameworks, WealthNexus AI delivers a stunning dark-themed interface with glassmorphism effects, 3D animations, and Bloomberg/Robinhood-inspired design aesthetic.
 
 ---
-
-## 🎬 Live Demo
-
-<div align="center">
-
-### ✨ Try WealthNexus AI Now (No Sign-up Required)
-
-[![Visit Live Demo](https://img.shields.io/badge/🚀%20Visit%20Live%20Demo-blue?style=for-the-badge&logo=netlify)](https://wealthnexus-ai.netlify.app)
-
-**Live URL:** [https://wealthnexus-ai.netlify.app](https://wealthnexus-ai.netlify.app)
-
-**Demo Credentials:**
-- Email: `demo@example.com`
-- Password: `demo123`
-
-Or create your own account instantly!
-
-</div>
 
 ### Demo Features Available
 - 📚 Browse all finance courses
@@ -558,15 +536,6 @@ docker build -t wealthnexus-ai .
 
 # Run container
 docker run -p 5173:5173 wealthnexus-ai
-```
-
-**Deployment Status:**
-- ✅ **Live Demo**: [wealthnexus-ai.netlify.app](https://wealthnexus-ai.netlify.app) 🎬
-- ✅ Netlify: [Deployed & Active](https://wealthnexus-ai.netlify.app)
-- ✅ Performance: Lighthouse score 90+
-- ✅ Uptime: 99.9% SLA
-- ✅ CDN: Global edge locations
-
 ---
 
 ## 📈 Performance Metrics
@@ -690,30 +659,10 @@ We welcome contributions! Here's how:
 
 ---
 
-## 👥 Team & Credits
-
-### Development Team
-- **Lead Developer**: Priyabrata Subhran Subehera
-- **Design**: Modern UI/UX principles
-- **Architecture**: Scalable, modular design
-
-### Special Thanks
-- React community
-- Tailwind CSS team
-- Open-source contributors
-- Financial industry mentors
-
 ### Attributions
 See [ATTRIBUTIONS.md](./ATTRIBUTIONS.md) for detailed credits.
 
 ---
-
-## 📞 Contact & Support
-
-### Get in Touch
-- **GitHub**: [@Priyabratasubhransubehera](https://github.com/Priyabratasubhransubehera)
-- **Repository**: [AI-Finance-Education-Platform](https://github.com/Priyabratasubhransubehera/AI-Finance-Education-Platform)
-- **Issues**: [Report Bug or Request Feature](https://github.com/Priyabratasubhransubehera/AI-Finance-Education-Platform/issues)
 
 ### Support Resources
 - 📖 [Comprehensive Guides](./GETTING_STARTED.md)
@@ -783,18 +732,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by the WealthNexus AI Team**
-
-⭐ If you found this project helpful, please consider giving it a star!
-
-[⬆ Back to top](#-wealthnexus-ai--intelligent-finance-education--investment-platform)
-
+   
 </div>
 - **Protected Routes**: Automatic redirect to login
 
 ## 💾 Data Management
 
-### Client-Side Storage (Demo Mode)
+### Client-Side Storage 
 - **LocalStorage**: User data, portfolio, learning progress
 - **Session Management**: JWT tokens
 - **Chat History**: AI advisor conversation logs
@@ -961,6 +905,17 @@ Each module is independent:
 
 This is a demo project showcasing modern fintech UI/UX patterns.
 
+---
+
+## 📞 Contact & Support
+
+### Get in Touch
+- **GitHub**: [@Priyabratasubhransubehera](https://github.com/Priyabratasubhransubehera)
+- **Repository**: [AI-Finance-Education-Platform](https://github.com/Priyabratasubhransubehera/AI-Finance-Education-Platform)
+- **Issues**: [Report Bug or Request Feature](https://github.com/Priyabratasubhransubehera/AI-Finance-Education-Platform/issues)
+- **linkedin**: [linkedin profile](https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/)
+- **Email**: [Email](psubhransubehera@gmail.com)
+
 ## 🙏 Acknowledgments
 
 - **Design Inspiration**: Bloomberg Terminal, Robinhood, Webull
@@ -971,4 +926,5 @@ This is a demo project showcasing modern fintech UI/UX patterns.
 
 ---
 
-Built with ❤️ for intelligent investing and financial education.
+Built with intelligent investing and financial education.
+(THANK YOU)
