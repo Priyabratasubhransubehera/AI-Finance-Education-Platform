@@ -10,7 +10,7 @@
 
 **An AI-powered fintech platform revolutionizing financial education and investment decision-making**
 
-[Live Demo](#-screenshots) • [Features](#-features) • [Installation](#-installation) • [Documentation](./API_SPECIFICATION.md) • [Contact](#-contact)
+[🚀 Live Demo](https://wealthnexus-ai.netlify.app) • [Features](#-features) • [Installation](#-installation) • [Documentation](./API_SPECIFICATION.md) • [Contact](#-contact)
 
 </div>
 
@@ -29,7 +29,37 @@
 
 Built with cutting-edge React 18, TypeScript, and modern UI frameworks, WealthNexus AI delivers a stunning dark-themed interface with glassmorphism effects, 3D animations, and Bloomberg/Robinhood-inspired design aesthetic.
 
-## 📊 Business Impact & Metrics
+---
+
+## 🎬 Live Demo
+
+<div align="center">
+
+### ✨ Try WealthNexus AI Now (No Sign-up Required)
+
+[![Visit Live Demo](https://img.shields.io/badge/🚀%20Visit%20Live%20Demo-blue?style=for-the-badge&logo=netlify)](https://wealthnexus-ai.netlify.app)
+
+**Live URL:** [https://wealthnexus-ai.netlify.app](https://wealthnexus-ai.netlify.app)
+
+**Demo Credentials:**
+- Email: `demo@example.com`
+- Password: `demo123`
+
+Or create your own account instantly!
+
+</div>
+
+### Demo Features Available
+- 📚 Browse all finance courses
+- 🎓 Complete lessons and quizzes
+- 💹 Analyze stocks with AI predictions
+- 📊 Practice paper trading
+- 📰 Read AI-analyzed financial news
+- 💼 Review risk-assessed portfolios
+- 🤖 Chat with AI financial advisor
+- 🏆 Earn XP and unlock achievements
+
+---
 
 | Metric | Value | Impact |
 |--------|-------|--------|
@@ -531,7 +561,8 @@ docker run -p 5173:5173 wealthnexus-ai
 ```
 
 **Deployment Status:**
-- ✅ Netlify: [Deployed](https://wealthnexus-ai.netlify.app)
+- ✅ **Live Demo**: [wealthnexus-ai.netlify.app](https://wealthnexus-ai.netlify.app) 🎬
+- ✅ Netlify: [Deployed & Active](https://wealthnexus-ai.netlify.app)
 - ✅ Performance: Lighthouse score 90+
 - ✅ Uptime: 99.9% SLA
 - ✅ CDN: Global edge locations
